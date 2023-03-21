@@ -1,4 +1,4 @@
-#Spider-Man: Miles Morales - Página Web
+# Spider-Man: Miles Morales - Página Web
 
 Esta é uma página web com a temática do jogo Spider-Man: Miles Morales. Ela foi desenvolvida como um projeto para praticar habilidades em HTML, CSS e JavaScript com orientação do professor Násser Youseff.
 
@@ -6,20 +6,20 @@ Funcionalidades
 
     Página inicial com vídeo de fundo mostrando imagens do jogo.
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
     HTML
     CSS
     JavaScript
 
-###Como Executar
+### Como Executar
 
 Para executar a página web localmente, siga os passos abaixo:
 
     1. Clone o repositório para sua máquina local
     2. Abra o arquivo index.html em seu navegador
 
-Contribuindo
+### Contribuindo
 
 Se você quiser contribuir para o projeto, por favor, siga os passos abaixo:
 
@@ -31,4 +31,4 @@ Se você quiser contribuir para o projeto, por favor, siga os passos abaixo:
 
 Obrigado!!
 
-Victor PAnsardis
+Victor Pansardis
