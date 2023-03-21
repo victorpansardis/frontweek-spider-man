@@ -9,7 +9,7 @@ Funcionalidades
 ## Tecnologias Utilizadas
 
     HTML
-    CSS
+    SCSS
     JavaScript
 
 ### Como Executar
